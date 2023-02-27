@@ -1,0 +1,16 @@
+---
+title: MT cards
+author: Merijn
+date: '2023-02-27'
+slug: []
+categories: []
+tags: []
+---
+
+# Dit is de mt cars dataset
+```{r}
+library(tidyverse)
+mtcars %>% 
+  plot()
+```
+
