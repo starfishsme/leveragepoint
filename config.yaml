@@ -1,6 +1,6 @@
-baseURL: https://apsho-hugo.netlify.app/
+baseURL: https://leveragepoint.netlify.app/
 languageCode: en-us
-title: Apsho | App landing template
+title: Leverage Point Analytics
 theme: hugo-apsho
 menu:
   main:
