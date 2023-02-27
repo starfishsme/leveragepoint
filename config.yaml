@@ -31,18 +31,16 @@ menu:
       weight: 4
 params:
   address:
-    address: 23 Khan Niketon, Grand Street, NYK.
-    email: apsho@example.com
+    address: 23, Rotterdam, NL
+    email: test@example.com
     phone: +(448) 833 5272 332
   copyright1: All right reserved
-  copyright2: Copyright ©  <a href="https://staticmania.com/" target="_blank">StaticMania
-    </a> {year}
-  email: help@staticmania.com
-  fabFormURL: https://fabform.io/f/zWMBVeW
+  copyright2: Copyright ©
+  email: test@test.com
   footerTitle: Get the latest app updates
-  googleAnalytics: UA-175025671-2
+  googleAnalytics: UA-
   logo: images/logo.png
   social:
-    facebook: https://www.facebook.com/pg/staticmania
-    github: https://github.com/StaticMania
-    twitter: https://twitter.com/static_mania
+    facebook: https://www.facebook.com/
+    github: https://github.com/
+    twitter: https://twitter.com/
