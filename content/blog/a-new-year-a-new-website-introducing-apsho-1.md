@@ -6,7 +6,7 @@ featureImage: images/blog/blog-post-5.jpg
 title: A New Year, A New Website. Introducing Apsho 1.2
 ---
 
-A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.
+Yadayadayada
 
 Working from home can be one of the greatest perks of doing freelance work. But as appealing as remote work sounds, it comes with several challenges. What if you need something important from the office that you have no access to? What if loneliness takes over and you experience time management problems? What if you lose connection with colleagues? What if you’re overwhelmed by other home-related distractions like family members, pets, and electronics?
 
