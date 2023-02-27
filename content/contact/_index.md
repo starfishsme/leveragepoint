@@ -2,3 +2,12 @@
 title: Let's talk about everything
 ---
 Test?
+
+<form 
+  method="POST" 
+  action="YOUR_WEBAPP_URL"
+>
+  <input name="Email" type="email" placeholder="Email" required>
+  <input name="Name" type="text" placeholder="Name" required>
+  <button type="submit">Send</button>
+</form>
